@@ -64,13 +64,6 @@
       "quadrant": "NQ1"
     },
     {
-      "id": "E0TwjDN",
-      "name": "Phoenix",
-      "meaning": "Phoenix",
-      "starsWithPlanets": 11,
-      "quadrant": "SQ1"
-    },
-    {
       "id": "bNHCxXb",
       "name": "Scorpius",
       "meaning": "Scorpion",
@@ -97,6 +90,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Columba",
+      "meaning": "Dove",
+      "starsWithPlanets": 3,
+      "quadrant": "SQ1",
+      "id": "Bs_DxoE"
     }
   ]
 }
